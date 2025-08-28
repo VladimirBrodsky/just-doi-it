@@ -1,7 +1,7 @@
-# just-doi-it
+# Just DOI it! 🎓✨
+
 “Fetch and export references from any DOI in BibTeX, RIS, or EndNote — Just DOI it!”
 
-Just DOI it! 🎓✨
 
 A simple Streamlit app that helps researchers, students, and anyone working with academic papers quickly fetch and export references from a DOI.
 
